@@ -4,7 +4,7 @@
   <img src="https://leetcard.jacoblin.cool/olmjanovm?theme=dark&font=Karma&ext=contest" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=olimov_m)
+![](https://komarev.com/ghpvc/?username=olmjanovm)
 
 Here are some ideas to get you started:
 
