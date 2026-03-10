@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**olmjanovm/olmjanovm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/olmjanovm?theme=dark&font=Karma&ext=contest" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=olimov_m)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personel project
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on New friend
+- 🤔 I’m looking for help with Money
+- 💬 Ask me about myself
+- 📫 How to reach me: @olmjanovm
+- 😄 Pronouns: Lazyboy
+- ⚡ Fun fact: I hate sleeep
+
